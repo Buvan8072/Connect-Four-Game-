@@ -30,4 +30,28 @@ Connect Four is a two-player game where players take turns dropping their respec
 - No external libraries required (pure Python)
 
 ---
+## 📦 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Buvan8072/connect-four-python.git
+   cd connect-four-python
+
+## Terminal Demo
+ 
+  1   2   3   4   5   6   7
+ +---+---+---+---+---+---+---+
+ |   |   |   |   |   |   |   |
+ +---+---+---+---+---+---+---+
+ |   |   |   |   |   |   |   |
+ +---+---+---+---+---+---+---+
+ |   |   |   |   |   |   |   |
+ +---+---+---+---+---+---+---+
+ |   |   |   |   |   |   |   |
+ +---+---+---+---+---+---+---+
+ |   |   |   |   |   |   |   |
+ +---+---+---+---+---+---+---+
+ | X | O | X | O |   |   |   |
+ +---+---+---+---+---+---+---+
+
 
